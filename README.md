@@ -1,3 +1,5 @@
+##Trying to record my learning history of data science.
+
 ## Kaggle Zillow competition
 
 Learning from kernels, following and understanding their code.
