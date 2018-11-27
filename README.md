@@ -1,4 +1,4 @@
-##Trying to record my learning history of data science.
+## Trying to record my learning history of data science.
 
 ## Kaggle Zillow competition
 
@@ -9,3 +9,4 @@ Building my own model and use the result as my Graduate Thesis in Shenzhen unive
 ## Data and competition 
 
 https://www.kaggle.com/c/zillow-prize-1
+
